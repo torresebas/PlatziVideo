@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "start": "webpack serve --mode development --env development --host 10.0.0.68"
+    "start": "webpack serve --mode development --env development --host 10.0.0.78"
   },
   "keywords": [],
   "author": "",
@@ -31,6 +31,7 @@
     "html-webpack-plugin": "^4.5.0",
     "mini-css-extract-plugin": "^1.3.3",
     "node-sass": "^5.0.0",
+    "react-router-dom": "^5.2.0",
     "sass-loader": "^10.1.0",
     "webpack": "^5.11.1",
     "webpack-cli": "^4.3.1",
